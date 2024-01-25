@@ -23,6 +23,6 @@
   "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme",
   "devDependencies": {
     "@faker-js/faker": "^8.3.1",
-    "cypress": "^13.6.2"
+    "cypress": "^13.6.3"
   }
 }
